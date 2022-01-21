@@ -35,9 +35,7 @@ body {
 
 
 /* My CSS*/
-body {
-  background: url('../grid-flex-assignment.png') 3px 19px no-repeat;
-}
+
 
 .emojis {
   display: grid;
